@@ -1,6 +1,6 @@
 <div align="center">
 
-<img href="http://로시작하는깃헙주소" width="800" height="900"/>
+![banner](https://user-images.githubusercontent.com/57948314/192949432-e4610ca1-1e52-4f70-bc4b-0e88937117b8.png)
  
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:b92b27,100:1565C0&height=150&section=header&text=WELCOME&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=45&descAlignY=75&fontColor=FFFFFF)
 
