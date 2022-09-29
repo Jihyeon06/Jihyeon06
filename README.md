@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=WELCOME&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=25&descAlignY=40)
 
 ## ✨ 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ✨
@@ -24,3 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=레이아웃 스타일&theme=monokai)
+</div>
