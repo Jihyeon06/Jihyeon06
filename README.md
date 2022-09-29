@@ -4,6 +4,7 @@
 
 ## ✨ 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ✨
 <a href="https://www.instagram.com/j.jm.o_o/" target='_blank'><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCAQrCKx27D7DKlQpiJJrx-A" target='_blank'><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://jihyeonsite.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/PORTFOLIO%20SITE-4EE3C2?style=for-the-badge&logo=Instatus&logoColor=white"></a>
 
 ## ✨ 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜 ✨
