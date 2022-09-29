@@ -15,17 +15,17 @@
 <img src="https://img.shields.io/badge/NODE%2EJS-339933?style=for-the-badge&logo=Node%2Ejs&logoColor=white">
 
 ## ✨ 𝔽𝕣𝕠𝕟𝕥-𝕖𝕟𝕕 𝕊𝕥𝕒𝕔𝕜 ✨
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 
 ## ✨ 𝔹𝕒𝕔𝕜-𝕖𝕟𝕕 𝕊𝕥𝕒𝕔𝕜 ✨
 
 
 ## ✨ 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕋𝕠𝕠𝕝𝕤 ✨
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
   
 <br><br>
   
