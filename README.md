@@ -25,6 +25,6 @@
   
 <br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=compact&theme=monokai)
 </div>
