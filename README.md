@@ -43,6 +43,6 @@
 
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=Rect&color=0:1565C0, 100:b92b27&height=150&section=header&text=THAT'S ALL&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=45&descAlignY=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0:1565C0,100:b92b27&height=150&section=header&text=THAT'S ALL&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=45&descAlignY=75&fontColor=FFFFFF)
   
 </div>
