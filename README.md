@@ -22,7 +22,9 @@
 ## ✨ 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕋𝕠𝕠𝕝𝕤 ✨
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-
+  
+<br><br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=레이아웃 스타일&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=compact&theme=monokai)
 </div>
