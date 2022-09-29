@@ -1,6 +1,6 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=WELCOME&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=25&descAlignY=40)
 
+<div align="center">
 ## ✨ 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ✨
 <a href="https://www.instagram.com/j.jm.o_o/" target='_blank'><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://jihyeonsite.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/PORTFOLIO%20SITE-4EE3C2?style=for-the-badge&logo=Instatus&logoColor=white"></a>
@@ -25,6 +25,6 @@
   
 <br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=compact&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=compact&theme=monokai)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)
 </div>
