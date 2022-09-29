@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/JQuerytg-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
 ## ✨ 𝔹𝕒𝕔𝕜-𝕖𝕟𝕕 𝕊𝕥𝕒𝕔𝕜 ✨
 
