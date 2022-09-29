@@ -40,6 +40,9 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon06&layout=compact&theme=monokai)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeon06&show_icons=true&theme=monokai)
- 
+
+<br>
+  
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:1565C0, 100:b92b27&height=150&section=header&text=THAT'S ALL&desc=JIHYEON's%20Github&fontSize=90&fontAlignY=45&descAlignY=75&fontColor=FFFFFF)
+  
 </div>
